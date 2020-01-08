@@ -1,4 +1,4 @@
-package com.github.liuchenrang.taobao.client.dto;
+package com.github.liuchenrang.taobao.top.client.dto;
 
 import com.alibaba.fastjson.annotation.JSONField;
 import lombok.Data;

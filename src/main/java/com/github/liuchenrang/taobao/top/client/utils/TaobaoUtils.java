@@ -1,8 +1,8 @@
-package com.github.liuchenrang.taobao.client.utils;
+package com.github.liuchenrang.taobao.top.client.utils;
 
-import com.github.liuchenrang.taobao.client.Constants;
-import com.github.liuchenrang.taobao.client.RequestParametersHolder;
-import com.github.liuchenrang.taobao.client.exception.SecretException;
+import com.github.liuchenrang.taobao.top.client.Constants;
+import com.github.liuchenrang.taobao.top.client.RequestParametersHolder;
+import com.github.liuchenrang.taobao.top.client.exception.SecretException;
 
 import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
@@ -265,7 +265,7 @@ public abstract class TaobaoUtils {
         try {
             cipher = Cipher.getInstance("AES/CBC/PKCS5Padding");
             cipher.init(Cipher.DECRYPT_MODE, new SecretKeySpec(decryptKey, AES), iv);
-            return cipher.doFinal(Base64.decode(encryptBytes));
+            return cipher.doFinal(com.github.liuchenrang.taobao.top.client.utils.Base64.decode(encryptBytes));
         } catch (Exception e) {
             throw new SecretException(e);
         }

@@ -1,7 +1,7 @@
-package com.github.liuchenrang.taobao.client;
+package com.github.liuchenrang.taobao.top.client;
 
-import com.github.liuchenrang.taobao.client.utils.TaobaoHashMap;
-import com.github.liuchenrang.taobao.client.utils.TaobaoUtils;
+import com.github.liuchenrang.taobao.top.client.utils.TaobaoHashMap;
+import com.github.liuchenrang.taobao.top.client.utils.TaobaoUtils;
 import lombok.Builder;
 import lombok.extern.slf4j.Slf4j;
 

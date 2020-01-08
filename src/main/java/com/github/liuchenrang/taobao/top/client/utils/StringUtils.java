@@ -1,6 +1,6 @@
-package com.github.liuchenrang.taobao.client.utils;
+package com.github.liuchenrang.taobao.top.client.utils;
 
-import com.github.liuchenrang.taobao.client.Constants;
+import com.github.liuchenrang.taobao.top.client.Constants;
 
 import java.beans.BeanInfo;
 import java.beans.Introspector;

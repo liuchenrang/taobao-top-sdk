@@ -1,4 +1,4 @@
-package com.github.liuchenrang.taobao.client.exception;
+package com.github.liuchenrang.taobao.top.client.exception;
 
 /**
  * 秘钥异常

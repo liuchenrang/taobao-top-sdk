@@ -1,4 +1,4 @@
-package com.github.liuchenrang.taobao.client;
+package com.github.liuchenrang.taobao.top.client;
 
 /**
  * 公用常量类。

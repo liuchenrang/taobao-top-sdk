@@ -1,6 +1,6 @@
-package com.github.liuchenrang.taobao.client;
+package com.github.liuchenrang.taobao.top.client;
 
-import com.github.liuchenrang.taobao.client.utils.TaobaoHashMap;
+import com.github.liuchenrang.taobao.top.client.utils.TaobaoHashMap;
 
 import java.util.HashMap;
 import java.util.List;

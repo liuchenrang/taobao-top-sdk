@@ -1,4 +1,4 @@
-package com.github.liuchenrang.taobao.client.utils;
+package com.github.liuchenrang.taobao.top.client.utils;
 
 import java.util.Arrays;
 

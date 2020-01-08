@@ -1,6 +1,4 @@
-package com.github.liuchenrang.taobao.client.utils;
-
-import com.github.liuchenrang.taobao.client.utils.StringUtils;
+package com.github.liuchenrang.taobao.top.client.utils;
 
 import java.util.Date;
 import java.util.HashMap;
