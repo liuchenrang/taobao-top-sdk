@@ -1,2 +1,2 @@
 #
-#mvn deploy -DaltDeploymentRepository=liuchenrang-mvn-repo::default::file:~/.chen-maven-repo/repository/
+#mvn deploy -DaltDeploymentRepository=liuchenrang-mvn-repo::default::file:/Users/chen/.chen-maven-repo/repository/
